@@ -1,6 +1,9 @@
 # Cached/downloaded data (includes large WARC files)
 **/var/
 
+# Large datasets
+**/data/
+
 # Python
 __pycache__/
 *.py[cod]
